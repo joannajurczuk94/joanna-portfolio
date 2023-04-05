@@ -97,7 +97,7 @@ body {
   position: relative;
   width: 300px;
   height: 400px;
-  background: linear-gradient(#333, #333 30%, rgb(194, 151, 255) 30%,rgb(194, 151, 255));
+  background: linear-gradient(rgb(189, 189, 189), rgb(189, 189, 189) 30%, rgb(170, 147, 255) 30%,rgb(194, 151, 255));
   margin: 10px;
   border-radius: 20px;
   overflow: hidden;
